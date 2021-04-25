@@ -1,5 +1,5 @@
 _repo: Heron-kartanon-lapset_65148
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Walldén, Hilja
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '42640'
     url: http://www.gutenberg.org/2009/agents/42640
     wikipedia: https://fi.wikipedia.org/wiki/Hilja_Walld%C3%A9n
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Prydz, Alvilde
@@ -21,6 +24,8 @@ creator:
     - https://no.wikipedia.org/wiki/Alvilde_Prydz
     - https://en.wikipedia.org/wiki/Alvilde_Prydz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65148#Heron-kartanon-lapset
 gutenberg_issued: '2021-04-23'
 gutenberg_type: Text
 identifiers:
