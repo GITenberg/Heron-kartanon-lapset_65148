@@ -1,0 +1,35 @@
+_repo: Heron-kartanon-lapset_65148
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Walldén, Hilja
+    alias: Wallden, Hilja
+    birthdate: 1871
+    deathdate: 1929
+    gutenberg_agent_id: '42640'
+    url: http://www.gutenberg.org/2009/agents/42640
+    wikipedia: https://fi.wikipedia.org/wiki/Hilja_Walld%C3%A9n
+creator:
+  author:
+    agent_name: Prydz, Alvilde
+    birthdate: 1848
+    deathdate: 1922
+    gutenberg_agent_id: '49705'
+    url: http://www.gutenberg.org/2009/agents/49705
+    wikipedia:
+    - https://fi.wikipedia.org/wiki/Alvilde_Prydz
+    - https://no.wikipedia.org/wiki/Alvilde_Prydz
+    - https://en.wikipedia.org/wiki/Alvilde_Prydz
+description: ''
+gutenberg_issued: '2021-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65148'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Herön kartanon lapset
+url: http://www.gutenberg.org/ebooks/65148
